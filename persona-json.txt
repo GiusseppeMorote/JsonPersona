@@ -53,3 +53,7 @@
 		"direccion": "Cartoon"
 	}
 ]
+
+http://square.github.io/retrofit/
+https://jsonlint.com/
+http://www.jsonschema2pojo.org/
