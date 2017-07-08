@@ -53,12 +53,3 @@
 		"direccion": "Cartoon"
 	}
 ]
-	"id":6,
-	"nombre":"Charizar",
-	"apellido":"Pokemn",
-	"edad":"14",
-	"telefono":"963852741",
-	"documento":"2548212",
-	"direccion":"Cartoon",
- }
-]
